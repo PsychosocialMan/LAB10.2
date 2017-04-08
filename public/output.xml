@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <description>Ответ</description>
+  <result>
+    <number-of-palindromes type="integer">22</number-of-palindromes>
+    <array type="array">
+      <array>
+        <el type="integer">0</el>
+        <sqr-el type="integer">0</sqr-el>
+      </array>
+      <array>
+        <el type="integer">1</el>
+        <sqr-el type="integer">1</sqr-el>
+      </array>
+      <array>
+        <el type="integer">2</el>
+        <sqr-el type="integer">4</sqr-el>
+      </array>
+      <array>
+        <el type="integer">3</el>
+        <sqr-el type="integer">9</sqr-el>
+      </array>
+      <array>
+        <el type="integer">11</el>
+        <sqr-el type="integer">121</sqr-el>
+      </array>
+      <array>
+        <el type="integer">22</el>
+        <sqr-el type="integer">484</sqr-el>
+      </array>
+      <array>
+        <el type="integer">101</el>
+        <sqr-el type="integer">10201</sqr-el>
+      </array>
+      <array>
+        <el type="integer">111</el>
+        <sqr-el type="integer">12321</sqr-el>
+      </array>
+      <array>
+        <el type="integer">121</el>
+        <sqr-el type="integer">14641</sqr-el>
+      </array>
+      <array>
+        <el type="integer">202</el>
+        <sqr-el type="integer">40804</sqr-el>
+      </array>
+      <array>
+        <el type="integer">212</el>
+        <sqr-el type="integer">44944</sqr-el>
+      </array>
+      <array>
+        <el type="integer">1001</el>
+        <sqr-el type="integer">1002001</sqr-el>
+      </array>
+      <array>
+        <el type="integer">1111</el>
+        <sqr-el type="integer">1234321</sqr-el>
+      </array>
+      <array>
+        <el type="integer">2002</el>
+        <sqr-el type="integer">4008004</sqr-el>
+      </array>
+      <array>
+        <el type="integer">10001</el>
+        <sqr-el type="integer">100020001</sqr-el>
+      </array>
+      <array>
+        <el type="integer">10101</el>
+        <sqr-el type="integer">102030201</sqr-el>
+      </array>
+      <array>
+        <el type="integer">10201</el>
+        <sqr-el type="integer">104060401</sqr-el>
+      </array>
+      <array>
+        <el type="integer">11011</el>
+        <sqr-el type="integer">121242121</sqr-el>
+      </array>
+      <array>
+        <el type="integer">11111</el>
+        <sqr-el type="integer">123454321</sqr-el>
+      </array>
+      <array>
+        <el type="integer">11211</el>
+        <sqr-el type="integer">125686521</sqr-el>
+      </array>
+      <array>
+        <el type="integer">20002</el>
+        <sqr-el type="integer">400080004</sqr-el>
+      </array>
+      <array>
+        <el type="integer">20102</el>
+        <sqr-el type="integer">404090404</sqr-el>
+      </array>
+    </array>
+  </result>
+</hash>
